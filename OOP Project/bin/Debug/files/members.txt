@@ -1,0 +1,1 @@
+[{"Height":"1","Weight":1.0,"bmi":1.0,"MedicalHistory":"M","Section":"M","Shift":"M","RefId":0,"Did":0,"Exid":0,"Fac":[{"FacId":1,"FacName":"Pool","Active":true},{"FacId":2,"FacName":"Sauna","Active":true},{"FacId":1,"FacName":"Lockers","Active":true}],"Branch":{"BranchId":2,"Location":"DHA"},"ID":1,"Name":"Akram","Address":"JT","PhoneNo":"+9211","Gender":"M","dob":"1991/1/1"}]
